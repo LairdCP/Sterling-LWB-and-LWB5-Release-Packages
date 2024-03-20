@@ -1,4 +1,4 @@
-# Sterling LWB, LWB5, LWB+, and LWB5+ Release Packages
+# Sona IF573 and Sterling LWB, LWB5, LWB+, and LWB5+ Release Packages
 
 Latest Release: v11.171.0.24
 
